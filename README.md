@@ -25,3 +25,5 @@ imie = Console.WritLine();
 ```
 
 ### Nagłowek 2.2
+
+Strona [WSEI](http://wei.edu.pl)
