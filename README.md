@@ -17,5 +17,11 @@ efpepfkpefpefk
 * ccc
 
 ### Nagłowek 2.1
+Podstawowym typem jest `string` oraz `int`
+
+```csharp
+Console.WriteLine("podaj imie");
+imie = Console.WritLine(); 
+```
 
 ### Nagłowek 2.2
