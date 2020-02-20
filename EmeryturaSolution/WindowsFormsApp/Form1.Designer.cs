@@ -44,6 +44,7 @@
             this.TextBoxImie.Name = "TextBoxImie";
             this.TextBoxImie.Size = new System.Drawing.Size(100, 20);
             this.TextBoxImie.TabIndex = 0;
+            this.TextBoxImie.TextChanged += new System.EventHandler(this.TextBoxImie_TextChanged);
             // 
             // textBoxNazwisko
             // 

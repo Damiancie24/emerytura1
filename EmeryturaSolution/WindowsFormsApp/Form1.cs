@@ -32,5 +32,10 @@ namespace WindowsFormsApp
                 labelWynik.Text = $"Do emerytury zostalo Ci {67 - wiek} lat";
             }
         }
+
+        private void TextBoxImie_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
